@@ -106,7 +106,7 @@ MIT License — Free to use, modify, and distribute.
 
 ---
 
-원하면 Gru님, 여기서 한 단계 더 가서:
+
 
 * README에 “Project Goals / Architecture Diagram”
 * FK → IK → Preset → ROS2 흐름을 더 프로답게 보이게
