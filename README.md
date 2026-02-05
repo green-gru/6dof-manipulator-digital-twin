@@ -106,17 +106,6 @@ If you need a production-grade robotics toolkit:
 MIT License — Free to use, modify, and distribute.
 
 ---
-
-
-
-* README에 “Project Goals / Architecture Diagram”
-* FK → IK → Preset → ROS2 흐름을 더 프로답게 보이게
-* 배너 이미지 + GIF 자동 재생 데모
-
-까지 넣으면 진짜 GitHub 메인페이지에서 “로봇 디지털트윈 툴” 느낌 확 살아납니다 😄
-
-
----
 korean
 
 
