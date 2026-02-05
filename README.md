@@ -65,7 +65,8 @@ This version focuses on validating FK chain behavior:
 4. Run:
 
    ```
-   Assets/Scenes/Main.unity
+   ManipulatorStudio/Assets/Scenes/Main.unity
+
    ```
 
 5. Press Play → Select `FkController` in Hierarchy
@@ -163,9 +164,9 @@ Unity 기반 6-DOF 로봇 매니퓰레이터 FK 시뮬레이터.
 
 ## Quick Start
 1. Unity 6.3 LTS 설치
-2. 레포 클론: `git clone https://github.com/grenn-gru/ManipulatorStudio.git`
+2. 레포 클론: `git clone https://github.com/green-gru/ManipulatorStudio.git`
 3. Unity Hub에서 프로젝트 열기
-4. `Assets/Scenes/Main.unity` 실행
+4. `ManipulatorStudio/Assets/Scenes/Main.unity` 실행
 5. Play → Hierarchy에서 `FkController` 선택
 6. Inspector에서 각도 슬라이더 조작
 
